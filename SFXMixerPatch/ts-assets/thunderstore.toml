@@ -29,5 +29,5 @@ target = "/BepInEx/plugins/SFXMixerPatch/"
 [publish]
 communities = [ "content-warning" ]
 [publish.categories]
-content-warning = [ "mods" ]
-# For a list of valid tags, look at the slug values in https://thunderstore.io/api/experimental/community/content-warning/category/
+content-warning = [ "audio" ]
+# For a list of valid tags, look at the slug values in https://thunderstore.io/api/experimental/community/game-name/category/
