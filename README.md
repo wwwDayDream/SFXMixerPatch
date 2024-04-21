@@ -1,0 +1,1 @@
+Fixes sound effects to make them respect the SFX volume slider.
